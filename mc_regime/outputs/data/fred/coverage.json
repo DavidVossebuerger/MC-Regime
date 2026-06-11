@@ -1,0 +1,112 @@
+{
+  "USD_CPI": {
+    "n_obs": 279,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "USD_Core CPI": {
+    "n_obs": 279,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "USD_PCE": {
+    "n_obs": 280,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "USD_Core PCE": {
+    "n_obs": 280,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "USD_Unemployment": {
+    "n_obs": 279,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "USD_NFP": {
+    "n_obs": 280,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "USD_10Y Treasury": {
+    "n_obs": 5857,
+    "first": "2003-01-02",
+    "last": "2026-06-01"
+  },
+  "USD_Industrial Production": {
+    "n_obs": 280,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "EUR_CPI": {
+    "n_obs": 280,
+    "first": "2003-01-01",
+    "last": "2026-04-01"
+  },
+  "EUR_Policy Rate": {
+    "n_obs": 8555,
+    "first": "2003-01-01",
+    "last": "2026-06-03"
+  },
+  "EUR_Unemployment": {
+    "n_obs": 241,
+    "first": "2003-01-01",
+    "last": "2023-01-01"
+  },
+  "EUR_GDP": {
+    "n_obs": 93,
+    "first": "2003-01-01",
+    "last": "2026-01-01"
+  },
+  "GBP_Policy Rate": {
+    "n_obs": 169,
+    "first": "2003-01-01",
+    "last": "2017-01-01"
+  },
+  "GBP_Unemployment": {
+    "n_obs": 276,
+    "first": "2003-01-01",
+    "last": "2025-12-01"
+  },
+  "JPY_Policy Rate": {
+    "n_obs": 252,
+    "first": "2003-01-01",
+    "last": "2023-12-01"
+  },
+  "JPY_GDP": {
+    "n_obs": 93,
+    "first": "2003-01-01",
+    "last": "2026-01-01"
+  },
+  "CHF_GDP": {
+    "n_obs": 92,
+    "first": "2003-01-01",
+    "last": "2025-10-01"
+  },
+  "USD_Fed Funds": {
+    "n_obs": 281,
+    "first": "2003-01-01",
+    "last": "2026-05-01"
+  },
+  "USD_GDP": {
+    "n_obs": 93,
+    "first": "2003-01-01",
+    "last": "2026-01-01"
+  },
+  "GBP_CPI": {
+    "n_obs": 267,
+    "first": "2003-01-01",
+    "last": "2025-03-01"
+  },
+  "GBP_Core CPI": {
+    "n_obs": 267,
+    "first": "2003-01-01",
+    "last": "2025-03-01"
+  },
+  "CHF_CPI": {
+    "n_obs": 268,
+    "first": "2003-01-01",
+    "last": "2025-04-01"
+  }
+}

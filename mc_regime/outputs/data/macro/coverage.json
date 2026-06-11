@@ -1,0 +1,179 @@
+{
+  "USD_CPI y/y": {
+    "n_obs": 98,
+    "first": "2018-01-12",
+    "last": "2026-03-11",
+    "mean": 3.4714285714285706
+  },
+  "USD_Core CPI m/m": {
+    "n_obs": 97,
+    "first": "2018-01-12",
+    "last": "2026-03-11",
+    "mean": 0.27731958762886594
+  },
+  "USD_Unemployment Rate": {
+    "n_obs": 102,
+    "first": "2018-01-04",
+    "last": "2026-04-03",
+    "mean": 4.542156862745098
+  },
+  "USD_Non-Farm Employment Change": {
+    "n_obs": 103,
+    "first": "2018-01-04",
+    "last": "2026-04-03",
+    "mean": 131893.20388349515
+  },
+  "USD_ISM Manufacturing PMI": {
+    "n_obs": 104,
+    "first": "2018-01-03",
+    "last": "2026-04-01",
+    "mean": 52.525000000000006
+  },
+  "USD_GDP m/m": {
+    "n_obs": 0
+  },
+  "USD_PPI m/m": {
+    "n_obs": 93,
+    "first": "2018-01-11",
+    "last": "2026-03-18",
+    "mean": 0.2247311827956989
+  },
+  "USD_Core Retail Sales m/m": {
+    "n_obs": 99,
+    "first": "2018-01-12",
+    "last": "2026-04-01",
+    "mean": 0.38787878787878793
+  },
+  "USD_Retail Sales m/m": {
+    "n_obs": 99,
+    "first": "2018-01-12",
+    "last": "2026-04-01",
+    "mean": 0.3868686868686869
+  },
+  "USD_Core PCE Price Index m/m": {
+    "n_obs": 90,
+    "first": "2018-01-29",
+    "last": "2026-03-13",
+    "mean": 0.24111111111111105
+  },
+  "EUR_CPI Flash Estimate y/y": {
+    "n_obs": 80,
+    "first": "2018-01-04",
+    "last": "2026-03-31",
+    "mean": 3.3549999999999995
+  },
+  "EUR_Core CPI Flash Estimate y/y": {
+    "n_obs": 70,
+    "first": "2018-01-04",
+    "last": "2026-03-31",
+    "mean": 2.7642857142857147
+  },
+  "EUR_Main Refinancing Rate": {
+    "n_obs": 66,
+    "first": "2018-01-25",
+    "last": "2026-03-19",
+    "mean": 1.4159090909090912
+  },
+  "EUR_German Prelim CPI m/m": {
+    "n_obs": 66,
+    "first": "2018-01-30",
+    "last": "2026-03-30",
+    "mean": 0.1606060606060606
+  },
+  "EUR_Flash Manufacturing PMI": {
+    "n_obs": 80,
+    "first": "2018-01-24",
+    "last": "2025-10-24",
+    "mean": 50.136250000000004
+  },
+  "EUR_Flash Services PMI": {
+    "n_obs": 80,
+    "first": "2018-01-24",
+    "last": "2025-10-24",
+    "mean": 50.873749999999994
+  },
+  "EUR_German ifo Business Climate": {
+    "n_obs": 90,
+    "first": "2018-01-25",
+    "last": "2026-01-26",
+    "mean": 92.9688888888889
+  },
+  "GBP_CPI y/y": {
+    "n_obs": 95,
+    "first": "2018-01-16",
+    "last": "2026-03-25",
+    "mean": 3.8621052631578947
+  },
+  "GBP_Core CPI y/y": {
+    "n_obs": 0
+  },
+  "GBP_Unemployment Rate": {
+    "n_obs": 17,
+    "first": "2018-01-24",
+    "last": "2019-05-14",
+    "mean": 4.094117647058824
+  },
+  "GBP_Claimant Count Change": {
+    "n_obs": 60,
+    "first": "2018-01-24",
+    "last": "2026-03-19",
+    "mean": 41931.666666666664
+  },
+  "GBP_MPC Official Bank Rate Votes": {
+    "n_obs": 0
+  },
+  "GBP_Manufacturing PMI": {
+    "n_obs": 0
+  },
+  "GBP_Services PMI": {
+    "n_obs": 0
+  },
+  "GBP_GDP m/m": {
+    "n_obs": 71,
+    "first": "2018-07-10",
+    "last": "2026-03-13",
+    "mean": -0.17464788732394368
+  },
+  "JPY_National Core CPI y/y": {
+    "n_obs": 4,
+    "first": "2023-03-24",
+    "last": "2025-03-21",
+    "mean": 3.05
+  },
+  "JPY_BoJ Policy Rate": {
+    "n_obs": 0
+  },
+  "JPY_Unemployment Rate": {
+    "n_obs": 0
+  },
+  "JPY_Industrial Production m/m": {
+    "n_obs": 0
+  },
+  "JPY_Manufacturing PMI": {
+    "n_obs": 0
+  },
+  "JPY_Services PMI": {
+    "n_obs": 0
+  },
+  "CHF_CPI m/m": {
+    "n_obs": 48,
+    "first": "2020-01-07",
+    "last": "2026-04-02",
+    "mean": 0.07083333333333332
+  },
+  "CHF_CPI y/y": {
+    "n_obs": 0
+  },
+  "CHF_SNB Policy Rate": {
+    "n_obs": 28,
+    "first": "2019-06-13",
+    "last": "2026-03-19",
+    "mean": 0.125
+  },
+  "CHF_Unemployment Rate": {
+    "n_obs": 0
+  },
+  "CHF_Manufacturing PMI": {
+    "n_obs": 0
+  }
+}

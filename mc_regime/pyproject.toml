@@ -1,0 +1,29 @@
+[project]
+name = "mc-regime"
+version = "0.1.0"
+description = "Regime-preserving bootstrap for FX fair-value models"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "numpy>=1.24",
+    "pyarrow>=12",
+    "statsmodels>=0.14",
+    "hmmlearn>=0.3",
+    "scikit-learn>=1.3",
+    "scipy>=1.11",
+    "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-v --tb=short"

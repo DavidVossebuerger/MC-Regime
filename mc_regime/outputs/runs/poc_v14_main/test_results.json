@@ -1,0 +1,446 @@
+{
+  "n_tests": 24,
+  "method": "pair_level_sign_test",
+  "raw_p_values": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    0.25,
+    0.25,
+    0.25,
+    0.25
+  ],
+  "fdr_adjusted_q_values": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "rejected_at_010": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "rejected_at_005": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "tests": [
+    {
+      "name": "Regime-Markov vs IID on L1",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L1",
+      "baseline": "IID",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs IID on L2",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L2",
+      "baseline": "IID",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs IID on L3_fro",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_fro",
+      "baseline": "IID",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs IID on L3_spec",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_spec",
+      "baseline": "IID",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs IID on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L4_temporal",
+      "baseline": "IID",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs MBB on L1",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L1",
+      "baseline": "MBB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs MBB on L2",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L2",
+      "baseline": "MBB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs MBB on L3_fro",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_fro",
+      "baseline": "MBB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs MBB on L3_spec",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_spec",
+      "baseline": "MBB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs MBB on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L4_temporal",
+      "baseline": "MBB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs SB on L1",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L1",
+      "baseline": "SB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs SB on L2",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L2",
+      "baseline": "SB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs SB on L3_fro",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_fro",
+      "baseline": "SB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs SB on L3_spec",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_spec",
+      "baseline": "SB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs SB on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L4_temporal",
+      "baseline": "SB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L1",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L1",
+      "baseline": "Regime-Uniform",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L2",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L2",
+      "baseline": "Regime-Uniform",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L3_fro",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_fro",
+      "baseline": "Regime-Uniform",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L3_spec",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L3_spec",
+      "baseline": "Regime-Uniform",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "effect_size": {
+        "mean_diff": NaN,
+        "median_diff": NaN,
+        "ci_low": NaN,
+        "ci_high": NaN,
+        "n_pairs": 0
+      },
+      "metric": "L4_temporal",
+      "baseline": "Regime-Uniform",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs IID on L0",
+      "wilcoxon_p": 0.25,
+      "effect_size": {
+        "mean_diff": -0.7934971288939714,
+        "median_diff": -0.7443942145107412,
+        "ci_low": -0.9528100299159931,
+        "ci_high": -0.6832871422551804,
+        "n_pairs": 3
+      },
+      "metric": "L0",
+      "baseline": "IID",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs MBB on L0",
+      "wilcoxon_p": 0.25,
+      "effect_size": {
+        "mean_diff": -0.21125232500033506,
+        "median_diff": -0.24810624957680444,
+        "ci_low": -0.2650347064174396,
+        "ci_high": -0.12061601900676107,
+        "n_pairs": 3
+      },
+      "metric": "L0",
+      "baseline": "MBB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs SB on L0",
+      "wilcoxon_p": 0.25,
+      "effect_size": {
+        "mean_diff": -0.24479501337239307,
+        "median_diff": -0.24481076144240072,
+        "ci_low": -0.35982113037822666,
+        "ci_high": -0.1297531482965518,
+        "n_pairs": 3
+      },
+      "metric": "L0",
+      "baseline": "SB",
+      "method": "pair_level_sign_test"
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L0",
+      "wilcoxon_p": 0.25,
+      "effect_size": {
+        "mean_diff": -0.0765896911853258,
+        "median_diff": -0.054778921467500824,
+        "ci_low": -0.15766510330836236,
+        "ci_high": -0.017325048780114205,
+        "n_pairs": 3
+      },
+      "metric": "L0",
+      "baseline": "Regime-Uniform",
+      "method": "pair_level_sign_test"
+    }
+  ]
+}

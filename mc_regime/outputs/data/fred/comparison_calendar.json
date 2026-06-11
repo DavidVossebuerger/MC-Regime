@@ -1,0 +1,112 @@
+{
+  "USD_CPI": {
+    "fred_obs": 279,
+    "calendar_obs": 98,
+    "calendar_col": "USD_CPI y/y"
+  },
+  "USD_Core CPI": {
+    "fred_obs": 279,
+    "calendar_obs": 97,
+    "calendar_col": "USD_Core CPI m/m"
+  },
+  "USD_PCE": {
+    "fred_obs": 280,
+    "calendar_obs": 83,
+    "calendar_col": "USD_Core PCE Price Index m/m"
+  },
+  "USD_Core PCE": {
+    "fred_obs": 280,
+    "calendar_obs": 97,
+    "calendar_col": "USD_Core CPI m/m"
+  },
+  "USD_Unemployment": {
+    "fred_obs": 279,
+    "calendar_obs": 99,
+    "calendar_col": "USD_Unemployment Rate"
+  },
+  "USD_NFP": {
+    "fred_obs": 280,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "USD_10Y Treasury": {
+    "fred_obs": 5857,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "USD_Industrial Production": {
+    "fred_obs": 280,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "EUR_CPI": {
+    "fred_obs": 280,
+    "calendar_obs": 64,
+    "calendar_col": "EUR_CPI Flash Estimate y/y"
+  },
+  "EUR_Policy Rate": {
+    "fred_obs": 8555,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "EUR_Unemployment": {
+    "fred_obs": 241,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "EUR_GDP": {
+    "fred_obs": 93,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "GBP_Policy Rate": {
+    "fred_obs": 169,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "GBP_Unemployment": {
+    "fred_obs": 276,
+    "calendar_obs": 17,
+    "calendar_col": "GBP_Unemployment Rate"
+  },
+  "JPY_Policy Rate": {
+    "fred_obs": 252,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "JPY_GDP": {
+    "fred_obs": 93,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "CHF_GDP": {
+    "fred_obs": 92,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "USD_Fed Funds": {
+    "fred_obs": 281,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "USD_GDP": {
+    "fred_obs": 93,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "GBP_CPI": {
+    "fred_obs": 267,
+    "calendar_obs": 95,
+    "calendar_col": "GBP_CPI y/y"
+  },
+  "GBP_Core CPI": {
+    "fred_obs": 267,
+    "calendar_obs": 0,
+    "calendar_col": null
+  },
+  "CHF_CPI": {
+    "fred_obs": 268,
+    "calendar_obs": 48,
+    "calendar_col": "CHF_CPI m/m"
+  }
+}

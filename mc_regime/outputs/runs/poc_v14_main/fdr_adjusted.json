@@ -1,0 +1,124 @@
+{
+  "tests": [
+    {
+      "name": "Regime-Markov vs IID on L1",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs IID on L2",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs IID on L3_fro",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs IID on L3_spec",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs IID on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs MBB on L1",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs MBB on L2",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs MBB on L3_fro",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs MBB on L3_spec",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs MBB on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs SB on L1",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs SB on L2",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs SB on L3_fro",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs SB on L3_spec",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs SB on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L1",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L2",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L3_fro",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L3_spec",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L4_temporal",
+      "wilcoxon_p": 1.0,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs IID on L0",
+      "wilcoxon_p": 0.25,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs MBB on L0",
+      "wilcoxon_p": 0.25,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs SB on L0",
+      "wilcoxon_p": 0.25,
+      "q_bh_raw": 1.0
+    },
+    {
+      "name": "Regime-Markov vs Regime-Uniform on L0",
+      "wilcoxon_p": 0.25,
+      "q_bh_raw": 1.0
+    }
+  ]
+}
