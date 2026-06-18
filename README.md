@@ -1,5 +1,6 @@
 # Regime-Preserving Bootstrap for FX Fair-Value Models
 [![SSRN](https://img.shields.io/badge/SSRN-blue?logo=ssrn&logoColor=white)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6890880)
+
 Methodology, metrics, and empirical validation of a regime-preserving bootstrap procedure for FX fair-value strategies (BEER, FEER, PPP).
 
 **Paper:** [`docs/paper.pdf`](docs/paper.pdf) (14 pages, English)
